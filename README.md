@@ -66,10 +66,10 @@ Son imagen de marca del juego, y la historia se entiende igual.
 
    | | |
    |---|---|
-   | MD5 | `f4d88b1476e3285871e2882457ee2927` |
-   | SHA-1 | `3e32e1a4b14df3afcafe59b2f1997741ec9acb06` |
+   | MD5 | `2136ea0e5fc2a40de5f7dd3f055f6e69` |
+   | SHA-1 | `` |
 
-   El parche `.xdelta` tiene SHA-256 `d29abe2ada7a5c23da56d7bcd62288734b658ecfb1127e5c4e72f2cd718ce7f2`.
+   El parche `.xdelta` tiene SHA-256 `3280663d2312f6d993df0fcd92a96875674b6401c3d1038bf368ff40ddb4d9ba`.
 
 La ROM traducida **ocupa el doble que la original**. El texto en castellano no
 cabía en el cartucho de 2 MB, así que se amplía a 4 MB. Funciona en emuladores
@@ -107,6 +107,10 @@ cuenta.
   pendiente de repaso.
 - **v1.0.1**: corregido el glifo del signo de apertura de interrogación, que
   no era el giro exacto del signo de cierre y se notaba en pantalla.
+- **v1.0.2**: corregido el ancho de la ventana de diálogo sin retrato. El
+  presupuesto de 176 px se había deducido de la caja del fin de partida, no de
+  la del diálogo: la real es de 128 px. Se han remaquetado 60 líneas que el
+  motor cortaba a mitad de palabra.
 
 ## Aviso
 
