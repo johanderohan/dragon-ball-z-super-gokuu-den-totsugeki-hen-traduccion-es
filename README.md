@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/super-nintendo/dragon-ball-z-super-gokuden-totsugeki-hen)**.
+
 Traducción al **español de España**, hecha **desde la ROM japonesa original**,
 de *Dragon Ball Z: Super Gokūden — Totsugeki-hen* (Super Famicom, Bandai,
 1995), una aventura conversacional que recorre el manga original desde que Son
